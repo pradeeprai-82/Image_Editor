@@ -1,0 +1,71 @@
+body{
+    background: paleturquoise;
+}
+
+
+.file-upload-section{
+
+    margin: auto;
+    margin-top: 5%;
+    background: green;
+    padding: 4px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#foto-file {display:none}
+
+body {
+    background-color: darkslategrey;
+
+}
+
+.image-container{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+
+.buttons-section{
+    position: fixed;
+    margin: auto;
+    top: 67%;
+    left: 25%;
+    color: white;
+    width: 50;
+    align-items: center;
+}
+
+
+
+.button-table{
+    width: 100%;
+}
+
+.button-table td {
+    padding: 4px;
+    text-align: center;
+
+}
+
+.operation-button {
+    padding: 8px;
+    color: white;
+    background: yellowgreen;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bolder;
+}
+
+
